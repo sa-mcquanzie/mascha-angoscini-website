@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mascha-angoscini-website/static/css/main.073c9b0a.css",
+    "main.js": "/mascha-angoscini-website/static/js/main.404d58e8.js",
+    "static/js/787.a99dc40a.chunk.js": "/mascha-angoscini-website/static/js/787.a99dc40a.chunk.js",
+    "static/media/logo.svg": "/mascha-angoscini-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mascha-angoscini-website/index.html",
+    "main.073c9b0a.css.map": "/mascha-angoscini-website/static/css/main.073c9b0a.css.map",
+    "main.404d58e8.js.map": "/mascha-angoscini-website/static/js/main.404d58e8.js.map",
+    "787.a99dc40a.chunk.js.map": "/mascha-angoscini-website/static/js/787.a99dc40a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.404d58e8.js"
+  ]
+}
